@@ -12,7 +12,6 @@ owner:
   bio:            
   email:          gaiussensei@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        gaiussensei
   facebook:       gaius
   github:         gaiussensei
@@ -34,16 +33,16 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: Charter
+    url: /charter/
+  - title: Skillplans
+    url: /skillplans/
+  - title: Doctrines
+    url: /doctrines/
   - title: Articles
     url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
+  - title: r/BraveNewbies
+    url: http://www.reddit.com/r/BraveNewbies
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
