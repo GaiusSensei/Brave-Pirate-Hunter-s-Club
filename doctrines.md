@@ -1,10 +1,10 @@
 ---
 layout: post-index
-permalink: /skillplans/index.html
-title: Skillplans
-tagline: A List of Skillplans
+permalink: /doctrines/index.html
+title: Doctrines
+tagline: A List of Doctrines
 tags: [FAQ]
-category: skillplans
+category: doctrines
 image:
   feature: texture-feature-03.jpg
   credit: Texture Lovers

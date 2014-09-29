@@ -3,7 +3,7 @@
 
 // Run button configuration
   "commands": {
-      "Jekyll Serve":"jekyll serve",
+      "Jekyll Serve":"jekyll serve --config _config.yml,_debug.yml",
         "Node version": "node --version"
   },
 
