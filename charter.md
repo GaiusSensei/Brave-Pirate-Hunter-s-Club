@@ -56,6 +56,6 @@ The Brave Pirate Hunter's Club is based primarilly on EX6-AO, one of the tradehu
 * RR-D05 (Dangerously close to the Black Pearl Alliance systems)  
 * 7LHB-Z & G-7WUF (7+ Jumps aways from HQ with jump bridges, but less chance of encountering a roaming fleet)  
 
-## Fleets & Events
+## Fleets, Events & Contracts
 
-As of now, fleets (ratting or otherwise) will be unscheduled; feel free to start one or ask people in the channel. There are also no planned events yet, both ingame or in real life. This will change in the near future, as we gain more members. 
+As of now, fleets (ratting or otherwise) will be unscheduled; feel free to start one or ask people in the channel. There are also no planned events yet, both ingame or in real life. We currently have no contracts available with our doctrine fits. All of these will change in the near future, as we gain more members. 
