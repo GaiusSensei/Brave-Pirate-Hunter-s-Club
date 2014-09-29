@@ -15,8 +15,10 @@
     $(window).resize(function onWindowResize(){
         if ($(window).width() <= 720) {
             $("#flickr-img").css("margin-top", 0);
+            $(".image-cropper").css("height", 200);
         } else {
             $("#flickr-img").css("margin-top", ($("#flickr-img")[0].clientHeight / 4) * -1);
+            $(".image-cropper").css("height", 300);
         }
     });
     $(document).ready(function readyF() {
