@@ -20,7 +20,7 @@
         }
     });
     $(document).ready(function readyF() {
-        $("body").css("min-width","420px");
+        $("body").css("min-width","320px");
         $("#flickr-img").attr("src",custom.headPhotoURL);
         $("#flickr-a").attr("href",custom.headPhotoOwnerURL);
         $("#flickr-a").text(custom.headPhotoTitle + " by " + custom.headPhotoOwner);
