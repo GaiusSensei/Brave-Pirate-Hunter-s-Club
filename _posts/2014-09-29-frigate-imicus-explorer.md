@@ -50,29 +50,8 @@ __Role Bonus:__
 
 ## Common Format & Average Price
 
-| [Imicus, Basic Explorer] | [Imicus, Optimal Explorer]
-| [empty low slot] | Inertia Stabilizers II
-| [empty low slot] | Inertia Stabilizers II
-| [empty low slot] | Inertia Stabilizers II
-|  | 
-| 1MN Microwarpdrive I | 1MN Microwarpdrive I
-| Data Analyzer I | Data Analyzer I
-| Relic Analyzer I | Relic Analyzer I
-| [empty med slot] | [empty med slot]
-|  | 
-| Expanded Probe Launcher I | Expanded Probe Launcher I
-| [empty high slot] | [empty high slot]
-| [empty high slot] | [empty high slot]
-|  | 
-| [empty rig slot] | Small Low Friction Nozzle Joints II
-| [empty rig slot] | Small Low Friction Nozzle Joints II
-| [empty rig slot] | Small Low Friction Nozzle Joints II
-|  | 
-| Combat Scanner Probe I x8 | Combat Scanner Probe I x8
-|  | Hornet EC-300 x4
-|  | Hobgoblin II x4
-|  | 
-| [Click for Plaintext Format]({{ site.url }}/assets/common/imicus-explorer.txt) | [Click for Plaintext Format]({{ site.url }}/assets/common/imicus-explorer-optimal.txt) 
+| [Imicus, Basic Explorer]<br/>[empty low slot]<br/>[empty low slot]<br/>[empty low slot]<br/><br/>1MN Microwarpdrive I<br/>Data Analyzer I<br/>Relic Analyzer I<br/>[empty med slot]<br/><br/>Expanded Probe Launcher I, Combat Scanner Probe I<br/>[empty high slot]<br/>[empty high slot]<br/><br/>[empty rig slot]<br/>[empty rig slot]<br/>[empty rig slot]<br/><br/><br/><br/>| [Imicus, Optimal Explorer]<br/>Inertia Stabilizers II<br/>Inertia Stabilizers II<br/>Inertia Stabilizers II<br/><br/>1MN Microwarpdrive I<br/>Data Analyzer I<br/>Relic Analyzer I<br/>[empty med slot]<br/><br/>Expanded Probe Launcher I, Combat Scanner Probe I<br/>[empty high slot]<br/>[empty high slot]<br/><br/>Small Low Friction Nozzle Joints II<br/>Small Low Friction Nozzle Joints II<br/>Small Low Friction Nozzle Joints II<br/><br/>Hornet EC-300 x4<br/>Hobgoblin II x4
+| |
 | [Click for Average Price](http://evepraisal.com/e/3554771) | [Click for Average Price](http://evepraisal.com/e/3554782)
 
 ## Skillplans
@@ -84,14 +63,15 @@ __Role Bonus:__
 | Astrometrics | 2 | 00:01:56:26 | Why limit yourself to Anoms? |
 | Survey | 1 | 00:00:08:20 | Prerequisite.. |
 | Survey | 2 | 00:00:38:50 | Prerequisite.. |
-| Survey | 3 | 00:03:39:30 | Unlock Archeology & Salvaging |
+| Survey | 3 | 00:03:39:30 | Archeology & Salvaging Unlocked! |
 | Archeology | 1 | 00:00:25:00 | Hack Relic Sites! |
 | Electronics Upgrades | 1 | 00:00:16:40 | Prerequisite.. |
 | Electronics Upgrades | 2 | 00:01:17:38 | Prerequisite.. |
-| Electronics Upgrades | 3 | 00:07:19:02 | Unlock Hacking! |
+| Electronics Upgrades | 3 | 00:07:19:02 | Hacking Unlock! |
 | Hacking | 1 | 00:00:25:00 | Hack Data Sites! |
+{: .pure-table .pure-table-horizontal .pure-table-striped}
 
-__Training Time: 00:16:31:26__ w/o the BRAVE Starter Kit (Total: 02:18:28:11)<br />
+__Training Time: 00:16:31:26__ w/o the BRAVE Starter Kit (Total: 02:18:28:11). Also, note that all of the skills above (as well as all of the recommendations below) are available for free via the [BRAVE Dojo Skillbook Program](https://wiki.braveineve.com/dojo/skillbooks).<br />
 <br />
 __Recommendation:__ The following skills would be optimal afterwards (in no particular order)
 
@@ -106,5 +86,9 @@ __Recommendation:__ The following skills would be optimal afterwards (in no part
 * Advanced Drone Avionics 1 (Prerequisite for the Hornet EC-300)
 
 ## Flying the Ship
+
+Under Construction..
+
+## Frequently Asked Questions
 
 Under Construction..

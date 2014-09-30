@@ -7,3 +7,4 @@ node_modules
 _asset_bundler_cache
 Gemfile.lock
 _debug.yml
+.codio

@@ -25,7 +25,7 @@ Did you just create your Eve Online avatar? Then you've come to the right place!
 
 * [Race] Frigate III. 
 
-That should take __7 hours__- plently of time to complete the tutorial, send an application to the BRAVE Alliance, and make your way to GE-8JV. You're gonna need a ton of skill books, and [the BRAVE Dojo can provide those for free](https://imgur.com/BSNq3bo). Every newly made character in Eve Online starts with the following skills:
+That should take __7 hours__- plently of time to complete the tutorial, send an application to the BRAVE Alliance, and make your way to GE-8JV. You're gonna need a ton of skill books, and [the BRAVE Dojo can provide those for free](https://wiki.braveineve.com/dojo/skillbooks). Every newly made character in Eve Online starts with the following skills:
 
 * [Race] Frigate II
 * Small [Projectile/Hybrid/Energy] Turret III
@@ -106,6 +106,7 @@ Listed below are the skillbooks that you need- You might want to talk to the Bra
 | [OtherRace B] Frigate | 3 | 07:19:02 | Unlock Race B Destroyers |
 | [OtherRace C] Frigate | 2 | 01:17:38 | More Frigate Bonuses.. |
 | [OtherRace C] Frigate | 3 | 07:19:02 | Unlock Race C Destroyers |
+{: .pure-table .pure-table-horizontal .pure-table-striped}
 
 Total Training Time: __02:01:56:45__. Not bad- a well rounded T1 Frigate pilot in a little over 2 days. You can do fleet roams and PvP now! What? Ratting? Well, you'd need quite a bit more.  
 
