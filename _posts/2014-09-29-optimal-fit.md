@@ -25,6 +25,7 @@ Losing a lot of ships? Having a tough time fitting the [Pirate Hunter's Doctrine
 
 ## Skillplan
 
+{: .pure-table .pure-table-horizontal .pure-table-striped}
 | Skill Name | Level | Time | Notes |
 |:-----------|:-----:|:-----|:------|
 | Hull Upgrades | 2 | 00:01:17:38 | Armor & hull upgrades |

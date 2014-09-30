@@ -56,6 +56,7 @@ __Role Bonus:__
 
 ## Skillplans
 
+{: .pure-table .pure-table-horizontal .pure-table-striped}
 | Skill Name | Level | Time | Notes |
 |:-----------|:-----:|:-----|:------|
 | BRAVE Starter Kit | X | 02:01:56:45 | [Click here for skillplan]({{ site.url }}/skillplans/brave-starter-kit/) |
@@ -69,7 +70,6 @@ __Role Bonus:__
 | Electronics Upgrades | 2 | 00:01:17:38 | Prerequisite.. |
 | Electronics Upgrades | 3 | 00:07:19:02 | Hacking Unlock! |
 | Hacking | 1 | 00:00:25:00 | Hack Data Sites! |
-{: .pure-table .pure-table-horizontal .pure-table-striped}
 
 __Training Time: 00:16:31:26__ w/o the BRAVE Starter Kit (Total: 02:18:28:11). Also, note that all of the skills above (as well as all of the recommendations below) are available for free via the [BRAVE Dojo Skillbook Program](https://wiki.braveineve.com/dojo/skillbooks).<br />
 <br />
@@ -87,8 +87,21 @@ __Recommendation:__ The following skills would be optimal afterwards (in no part
 
 ## Flying the Ship
 
-Under Construction..
+This ship is designed to be in a fleet (don't solo with it) and to be as expendable as possible. The standard operating procedure would probably be:
+
+1. Warp to the system with the ratting fleet
+2. Triangulate into a safe spot, then launch probes (filter for anoms)
+3. Start exploring the system.
+4. Send the ratting fleet to the combat anomalies
+5. Claim the Data/Relic sites while waiting, OR sit in the safe spot, clear the scanner and start scanning for possible hostiles.
 
 ## Frequently Asked Questions
 
-Under Construction..
+Q. Why Expanded Probe Launcher? Fitting Probe Launcher I would make the fit easier.<br/>
+A. Because this is not a Data/Relic Explorer Fit. After finding all of the Combat Anoms in a system, this fit is designed to sit in a safe spot, clear its scanner, and check if hostiles are going for the fleet. It's also good practice in case the pilot wants to do Wormholes later.<br/>
+<br/>
+Q. No Cloak?<br/>
+A. Flying a cloaky ship in a non-cloaky fleet is kinda tricky, but if you can pull it off, then by all means fit a cloak.<br/>
+<br/>
+Q. Warp Core Stabilizers would help more than the Inertia Stabilizers.<br/>
+A. For a solo explorer, sure. However, if you're warping with a fleet, I doubt that you'd be a primary point target- I doubt if you'd be a target at all.<br/>
