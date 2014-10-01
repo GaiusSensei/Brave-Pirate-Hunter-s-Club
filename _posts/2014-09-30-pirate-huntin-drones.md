@@ -58,8 +58,8 @@ __Total Training Time: 22:07:04:30__ w/o the BRAVE Starter Kit (Total: 24:09:01:
 | BRAVE Starter Kit | X | 02:01:56:45 | [Click here for skillplan]({{ site.url }}/skillplans/brave-starter-kit/) 
 | Drones Skillplan Alpha | X | 22:07:04:30 | See skillplan above
 | Medium Drone Operation | 1 | 00:00:16:40 | Field 5 T1 Mediums!
-| Drone Navigation | 1 | 00:00:08:20 | Mediums are slower, which makes them easier to hit
-| Drone Durability | 1 | 00:00:41:41 | Mediums are more expensive- they need more HP!
+| Drone Navigation | 1 | 00:00:08:20 | Mediums are slower, making them easy to hit
+| Drone Durability | 1 | 00:00:41:41 | Mediums are expensive- they need more HP!
 | Medium Drone Operation | 2 | 00:01:17:38 | +5% DPS..
 | Drone Navigation | 2 | 00:00:38:50 | +5% Max Velocity..
 | Drone Durability | 2 | 00:03:14:04 | +5% Shield/Armor/Hull HP
@@ -88,7 +88,7 @@ __Total Training Time: 23:00:22:30__ w/o the BRAVE Starter Kit & the Drone Alpha
 | Drone Sharpshooting | 4 | 00:20:41:50 | Sentry Drones Unlocked!
 | Sentry Drone Interfacing | 1 | 00:00:41:40 | Field 5 T1 Sentries!
 | Sentry Drone Interfacing | 2 | 00:03:13:04 | +5% DPS..
-| Drone Avionics | 3 | 00:03:39:30 | More Control Range = Sentries start firing from farther away
+| Drone Avionics | 3 | 00:03:39:30 | Control Range = Min. Sentry Attack Range
 | Sentry Drone Interfacing | 3 | 00:18:17:36 | +5% DPS..
 | Drone Avionics | 4 | 00:20:41:50 | Even MORE Control Range
 | Sentry Drone Interfacing | 4 | 04:07:29:10 | +5% DPS..

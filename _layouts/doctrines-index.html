@@ -33,7 +33,7 @@
         {% endif %}
         {% endfor %}
         {% endcapture %}
-        {% assign sortedposts = posts | split: '|' | sort %}
+        {% assign sortedposts = posts | split: '|' | sort | reverse %}
         {% assign lastfleet = '' %}
         {% for post in sortedposts %}
         {% if post contains '`' %}

@@ -21,6 +21,7 @@
         $("#flickr-img").attr("src",custom.headPhotoURL);
         $("#flickr-a").attr("href",custom.headPhotoOwnerURL);
         $("#flickr-a").text(custom.headPhotoTitle + " (Awesomness: " + custom.awesomeness + "*)");
+        $("table").css("font-size", "0.7em");
         console.log("*Flickr Awesomeness Rating - Higher is Better.");
     });
     // Custom Functions
