@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Frigate: Imicus Explorer"
+title: "T1 Frigate: Imicus Explorer"
 description: "Find Combat Anomalies for your fleet!"
 modified: 2014-09-29
 category: doctrines
 tags: [non-combat,doctrines]
+fleet: Non-Combat
 image:
   feature: texture-feature-03.jpg
   credit: Texture Lovers

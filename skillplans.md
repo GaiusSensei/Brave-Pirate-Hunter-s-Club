@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: skillplans-index
 permalink: /skillplans/index.html
 title: Skillplans
 tagline: A List of Skillplans

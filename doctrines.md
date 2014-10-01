@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: doctrines-index
 permalink: /doctrines/index.html
 title: Doctrines
 tagline: A List of Doctrines

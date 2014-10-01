@@ -1,0 +1,65 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    {% include _head.html %}
+</head>
+
+<body class="articles" itemscope itemtype="http://schema.org/WebPage">
+
+    {% include _browser-upgrade.html %} {% include _navigation.html %}
+    <div class="image-wrap">
+        <div class="image-cropper" style="width:100%; height:300px; overflow: hidden;">
+            <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage" id="flickr-img">
+        </div>
+        <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}" id="flickr-a">{{ page.image.credit }}</a></span>
+    </div>
+
+    <div class="article-author-side">
+        {% include _author-bio.html %}
+    </div>
+
+    <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+        <h1 itemprop="name">{{ page.title }}</h1>
+        {% capture posts %}
+        {% for post in site.posts %}
+        {% if (page.category == post.category) %} 
+        |{{ post.fleet }}`{{ post.title }}`{{ post.url }}`{{ post.description }}
+        {% endif %}
+        {% endfor %}
+        {% endcapture %}
+        {% assign sortedposts = posts | split: '|' | sort %}
+        {% assign lastfleet = '' %}
+        {% for post in sortedposts %}
+        {% if post contains '`' %}
+        {% assign postitems = post | split: '`' %}
+        {% if postitems[0] != lastfleet %}
+        {% assign lastfleet = postitems[0] %}
+        <h3>{{ postitems[0] }}</h3>
+        {% endif %}
+        <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+            <h2 itemprop="headline"><a href="{{ site.url }}{{ postitems[2] }}" rel="bookmark" title="{{ postitems[1] }}">{{ postitems[1] }}</a></h2>
+            <p itemprop="text">{{ postitems[3] }}</p>
+        </article>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <!-- /#index -->
+
+    <div class="footer-wrap">
+        <footer>
+            {% include _footer.html %}
+        </footer>
+    </div>
+    <!-- /.footer-wrap -->
+
+    {% include _scripts.html %}
+
+</body>
+
+</html>

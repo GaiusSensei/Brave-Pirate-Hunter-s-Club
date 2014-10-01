@@ -21,7 +21,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Drones have always been the staple way to masacre pirates, and the Sansha's Nation menace can be dealt with is the same way. This skillplan is divided into three- one for Light Combat Drones Operation used by Frigates, another for Medium Drones used by Cruisers, and the last one for Sentry Drones used by battlecruisers and up. Note that all of these skillplans require the [BRAVE Starter Kit]({{ site.url }}/skillplans/brave-starter-kit/).<br/>
+Drones have always been the staple way to masacre pirates, and the Sansha's Nation menace can be dealt with via the same way. This skillplan is divided into three- one for Light Combat Drones Operation used by Frigates, another for Medium Drones used by Cruisers, and the last one for Sentry Drones used by battlecruisers and up. Note that all of these skillplans require the [BRAVE Starter Kit]({{ site.url }}/skillplans/brave-starter-kit/).<br/>
 <br/>
 Note: All of the skills below are available for free via the [BRAVE Dojo Skillbook Program](https://wiki.braveineve.com/dojo/skillbooks).
 
