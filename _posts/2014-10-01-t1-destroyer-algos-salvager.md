@@ -22,7 +22,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Most wreck contain loot- modules of the ship that survived your blasters and railguns. Aside from loot though, you still extract some more items from the wreck using Salvagers. This fit is designed to comb through an entire anomalies' worth of wrecks in as little time as possible.
+Most wrecks contain loot- modules of the ship that survived your blasters and railguns. Aside from loot though, you still extract some more items from the wreck using Salvagers. This fit is designed to comb through an entire anomalies' worth of wrecks in as little time as possible.
 
 ## Ingame Description
 
@@ -60,7 +60,7 @@ __Role Bonus:__
 | Skill Name | Level | Time | Notes |
 |:-----------|:-----:|:-----|:------|
 | BRAVE Starter Kit | X | 02:01:56:45 | [Click here for skillplan]({{ site.url }}/skillplans/brave-starter-kit/) |
-| Gallente Destroyer | 3 | 00:00:16:40 | Algos & Catalyst Unlocked! |
+| Gallente Destroyer | 1 | 00:00:16:40 | Algos & Catalyst Unlocked! |
 | Mechanics | 3 | 00:03:39:30 | Prerequisite..
 | Survey | 1 | 00:00:08:20 | Prerequisite..
 | Survey | 2 | 00:00:38:50 | Prerequisite..
